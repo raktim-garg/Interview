@@ -1,1 +1,1 @@
-# Interview Preparation for Beginners for all Competitive and Dream Companies
+# Interview Preparation for Beginners for all Competitive Programming and also Cracking "Dream Companies"
